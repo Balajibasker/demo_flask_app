@@ -16,6 +16,7 @@ def add():
         #print(data)
         val1 = data['val1']
         val2 = data['val2']
+        print(val2)
         #print(val1)
         val3=int(val1)+int(val2)
         val3=str(val3)
